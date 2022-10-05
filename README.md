@@ -37,7 +37,6 @@ In order to obtain a exact copy of the dataset used in this tutorial please run 
 
 * Autoregression ([AR](https://www.statsmodels.org/stable/generated/statsmodels.tsa.ar_model.AR.html))
 * Moving Average (MA)
-* Autoregressive Moving Average (ARMA)
 * Autoregressive integraded moving average (ARIMA)
 * Seasonal autoregressive integrated moving average (SARIMA)
 * Bayesian regression [Link](https://scikit-learn.org/stable/auto_examples/linear_model/plot_bayesian_ridge.html)
