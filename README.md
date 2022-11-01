@@ -115,7 +115,7 @@ We will devide our results wether the extra features columns such as temperature
 <td align="right">71.37</td>
 <td align="right">103.97</td>
 <td align="right">0.96</td>
-<td align="right">-0.63</td>
+<td align="right">0.63</td>
 </tr>
 <tr>
 <td>Tensorflow simple LSTM</td>
